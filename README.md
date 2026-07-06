@@ -1,7 +1,5 @@
 # hermes
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/itsubaki/hermes?style=flat-square)](https://goreportcard.com/report/github.com/itsubaki/hermes)
-
 ## Motivation
 
  In order to reduce AWS cost,
